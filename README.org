@@ -1,0 +1,5 @@
+* cjson2cjson
+
+Read in a Chemical JSON to the best of Avogadro's ability, then produce it again.
+
+Adapted from https://github.com/OpenChemistry/avogadrolibs/blob/b3b2a80bd500ddab0aa03e79826cb997511df6b9/avogadro/command/cjsontocml.cpp
